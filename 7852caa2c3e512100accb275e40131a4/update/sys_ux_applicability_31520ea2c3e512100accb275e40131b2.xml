@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1063926_ron_te_0.Ron Testing Audience</api_name>
+        <description/>
+        <name>Ron Testing Audience</name>
+        <role_names/>
+        <roles name="x_1063926_ron_te_0.agent">11520ea2c3e512100accb275e4013165</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-01 18:07:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>31520ea2c3e512100accb275e40131b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ron Testing Audience</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Ron Testing" source="x_1063926_ron_te_0">7852caa2c3e512100accb275e40131a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ron Testing">7852caa2c3e512100accb275e40131a4</sys_scope>
+        <sys_update_name>sys_ux_applicability_31520ea2c3e512100accb275e40131b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-01 18:07:17</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
